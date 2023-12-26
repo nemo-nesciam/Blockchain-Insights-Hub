@@ -6,8 +6,8 @@ BlockchainInsightsHub is a comprehensive GitHub repository offering a wide array
 
 | [Research](#research) | [Resources](#resources)    | [Repos](#repositories)     | [AI](#artificial-intelligence)| [Associations](#associations)|  [Reports](#reports)   |   [Regulation](#regulation)   |
 |-----------------------|----------------------------|----------------------------|-------------------------------|------------------------------|------------|----------------|
-| [Academic](#academic) | [General](#general)        | [Blockchain](#blockchain-1)| [Blockchain](#blockchain-1)   | [Blockchain](#blockchain-2)  |  [Private](#private-reports)   | [Cryptocurrency](#cryptocurrency-regulation) |
-|                       | [Security](#security)      |                            |                               |                              | [Government](#government-reports) | [Cybersecurity](#cybersecurity-regulation)  |
+| [Blockchain](#academic) | [General](#general)        | [Blockchain](#blockchain-1)| [Blockchain](#blockchain-1)   | [Blockchain](#blockchain-2)  |  [Private](#private-reports)   | [Cryptocurrency](#cryptocurrency-regulation) |
+| [Cybercrime]                      | [Security](#security)      |                            |                               |                              | [Government](#government-reports) | [Cybersecurity](#cybersecurity-regulation)  |
 |                       | [Recovery](#recovery)      |                            |                               |                              |            |    [Privacy](#privacy-regulation)     |
 |                       | [Development](#development)|                            |                               |                      |            |                |
 |                       | [OSINT](#osint)            |                            |                               |              |            |                |
