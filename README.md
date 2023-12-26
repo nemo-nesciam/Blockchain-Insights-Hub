@@ -177,7 +177,7 @@ Maltego is a highly efficient tool for cybercrime investigation, known for seaml
 - [FOCA (Fingerprinting Organizations with Collected Archives)](https://github.com/ElevenPaths/FOCA)<mark style="background-color: #FF7E24">**TLDR**</mark> FOCA is a specialized tool primarily used for extracting metadata and hidden information from various documents found on web pages. It supports a wide range of document formats, including Microsoft Office, Open Office, PDF, Adobe InDesign, and SVG files. FOCA leverages search engines like Google, Bing, and DuckDuckGo to find documents, and it also has the capability to analyze local files for EXIF information from graphic files. The tool conducts a thorough analysis of the information discovered through URLs before downloading the file, making it a comprehensive tool for uncovering hidden data in documents​​​​.
 
 
-###  Cybersecurity Resources
+###  Cybersecurity
 
 For ethical hackers and pen testers seeking to familiarize themselves with various legal requirements and regulations, the following resources can be highly beneficial:
 
