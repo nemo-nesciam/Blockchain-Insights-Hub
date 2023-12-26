@@ -4,7 +4,7 @@
 BlockchainInsightsHub is a comprehensive GitHub repository offering a wide array of resources in the blockchain realm, including the latest research, crypto crime reports, regulatory updates, and tools for blockchain development and analytics. It serves as a one-stop hub for enthusiasts, developers, researchers, and regulators, providing essential insights and tools for navigating and understanding the complex landscape of blockchain and cryptocurrencies. Simply click on a topic of interest to jump directly to that specific section.
 
 
-| [Research](#research) | [Resources](#resources)    | [Repos](#repositories)     | [AI](#artificial-intelligence)| [Nonprofits](#associations)|  [Reports](#reports)   |   [Regulation](#regulation)   |
+| [Research](#research) | [Resources](#resources)    | [Repos](#repositories)     | [AI](#artificial-intelligence)| [Nonprofits](#nonprofits)|  [Reports](#reports)   |   [Regulation](#regulation)   |
 |-----------------------|----------------------------|----------------------------|-------------------------------|------------------------------|------------|----------------|
 | [Blockchain](#blockchain) | [General](#general)        | [Blockchain](#blockchain-1)| [Blockchain](#blockchain-1)   | [Blockchain](#blockchain-2)  |  [Private](#private-reports)   | [Cryptocurrency](#cryptocurrency-regulation) |
 | [Cybercrime](#cybercrime)                      | [Security](#security)      |                            |                               |    [Cybersecurity](#cybersecurity-1)                              | [Government](#government-reports) | [Cybersecurity](#cybersecurity-regulation)  |
@@ -271,6 +271,19 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 [CVE Numbering Authority (CNA)](https://www.cve.org/ProgramOrganization/CNAs)
 <mark style="background-color: #FF7E24">**TLDR**</mark> CNAs are organizations from around the world that are authorized to assign CVE IDs to vulnerabilities affecting products within their distinct, agreed-upon scope, and to publish information about those vulnerabilities. CNAs include software vendors, open-source projects, coordination centers, bug bounty service providers, and research groups. They play a crucial role in the CVE program by ensuring that each identified vulnerability receives a unique identifier, which is essential for tracking and managing cybersecurity issues across various platforms and systems.
+
+[NATIONAL VULNERABILITY DATABASE (NVD)](https://nvd.nist.gov/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> The NVD is a U.S. government repository of standards-based vulnerability management data. It provides information on vulnerabilities and exposures, and integrates all of the publicly available U.S. Government vulnerability resources and provides references to industry resources. It is maintained by the National Institute of Standards and Technology (NIST) and is a comprehensive database that includes security checklist references, security-related software flaws, misconfigurations, product names, and impact metrics.
+
+[Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-geoplatform.opendata.arcgis.com/search?collection=Dataset) 
+<mark style="background-color: #FF7E24">**TLDR**</mark> HIFLD provides national foundation-level geospatial data within the open public domain that can be used to support community preparedness, resiliency, research, and more. HIFLD data is used for a variety of purposes including emergency response, national security-related efforts, and other applications where infrastructure data is vital. This initiative involves collaboration among different U.S. government agencies to enhance the quality and accessibility of critical infrastructure data to support homeland security and emergency management.
+
+[VIRUSTOTAL](https://www.virustotal.com/gui/home/search) 
+<mark style="background-color: #FF7E24">**TLDR**</mark> VIRUSTOTAL is a website that provides a free service for scanning suspicious files and URLs to detect types of malware and automatically shares them with the security community. It uses a variety of antivirus engines and website scanners to check for viruses and other types of malware and malicious activity. Users can submit files or links for analysis and receive reports detailing the results from many different antivirus scanners. It's a valuable tool for security professionals and the general public to assess the safety of files and websites.
+
+[EXPLOIT DATABASE](https://www.exploit-db.com/) 
+<mark style="background-color: #FF7E24">**TLDR**</mark> Exploit Database is a non-profit project that is provided as a public service by Offensive Security. The Exploit Database is an archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers. Its purpose is to provide information about vulnerabilities and their exploits to help security professionals test the security of their systems and to promote the responsible disclosure of security vulnerabilities. The database includes entries for various types of exploits, including remote exploits, web application exploits, and local & privilege escalation exploits, among others.
+
 
 
 ## Reports
