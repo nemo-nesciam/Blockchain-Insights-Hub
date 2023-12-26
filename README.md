@@ -7,8 +7,8 @@ BlockchainInsightsHub is a comprehensive GitHub repository offering a wide array
 | [Research](#research) | [Resources](#resources)    | [Repos](#repositories)     | [AI](#artificial-intelligence)| [Associations](#associations)|  [Reports](#reports)   |   [Regulation](#regulation)   |
 |-----------------------|----------------------------|----------------------------|-------------------------------|------------------------------|------------|----------------|
 | [Blockchain](#blockchain) | [General](#general)        | [Blockchain](#blockchain-1)| [Blockchain](#blockchain-1)   | [Blockchain](#blockchain-2)  |  [Private](#private-reports)   | [Cryptocurrency](#cryptocurrency-regulation) |
-| [Cybercrime](#cybercrime)                      | [Security](#security)      |                            |                               |                              | [Government](#government-reports) | [Cybersecurity](#cybersecurity-regulation)  |
-|                       | [Recovery](#recovery)      |                            |                               |                              |            |    [Privacy](#privacy-regulation)     |
+| [Cybercrime](#cybercrime)                      | [Security](#security)      |                            |                               |    [Cybersecurity]()                              | [Government](#government-reports) | [Cybersecurity](#cybersecurity-regulation)  |
+|                       | [Recovery](#recovery)      |                            |                               |                         |            |    [Privacy](#privacy-regulation)     |
 |                       | [Development](#development)|                            |                               |                      |            |                |
 |                       | [OSINT](#osint)            |                            |                               |              |            |                |
 |                       | [Cybersecurity](#cybersecurity)            |                            |                               |              |            |                |
@@ -257,6 +257,12 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 [The American Blockchain and Cryptocurrency Association](https://abcaonline.org/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> The American Blockchain and Cryptocurrency Association (ABCA) is a non-profit trade association dedicated to the educational and advocacy needs of the blockchain and cryptocurrency community. Representing a diverse group that includes crypto miners, investors, innovators, and entrepreneurs, ABCA focuses on shaping and advancing the interests of this rapidly evolving sector. The organization's initiatives and efforts are geared towards fostering a deeper understanding and more robust development within the blockchain and cryptocurrency fields​​​​.
+
+### Cybersecurity
+
+[Open Web Application Security Project (OWASP)](https://owasp.org/www-community/Threat_Modeling_Process)
+<mark style="background-color: #FF7E24">**TLDR**</mark>  OWASP is a nonprofit foundation that works to improve the security of software. It's known for its community-led open source software projects, extensive documentation, guidelines, tools, and forums. The OWASP Top 10, a standard awareness document for developers and web application security, is one of their most well-known publications, listing the most critical security risks to web applications.
+
 
 ## Reports
 
