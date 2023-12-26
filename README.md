@@ -6,8 +6,8 @@ BlockchainInsightsHub is a comprehensive GitHub repository offering a wide array
 
 | [Research](#research) | [Resources](#resources)    | [Repos](#repositories)     | [AI](#artificial-intelligence)| [Associations](#associations)|  [Reports](#reports)   |   [Regulation](#regulation)   |
 |-----------------------|----------------------------|----------------------------|-------------------------------|------------------------------|------------|----------------|
-| [Blockchain](#academic) | [General](#general)        | [Blockchain](#blockchain-1)| [Blockchain](#blockchain-1)   | [Blockchain](#blockchain-2)  |  [Private](#private-reports)   | [Cryptocurrency](#cryptocurrency-regulation) |
-| [Cybercrime]                      | [Security](#security)      |                            |                               |                              | [Government](#government-reports) | [Cybersecurity](#cybersecurity-regulation)  |
+| [Blockchain](#blockchain) | [General](#general)        | [Blockchain](#blockchain-1)| [Blockchain](#blockchain-1)   | [Blockchain](#blockchain-2)  |  [Private](#private-reports)   | [Cryptocurrency](#cryptocurrency-regulation) |
+| [Cybercrime](#cybercrime)                      | [Security](#security)      |                            |                               |                              | [Government](#government-reports) | [Cybersecurity](#cybersecurity-regulation)  |
 |                       | [Recovery](#recovery)      |                            |                               |                              |            |    [Privacy](#privacy-regulation)     |
 |                       | [Development](#development)|                            |                               |                      |            |                |
 |                       | [OSINT](#osint)            |                            |                               |              |            |                |
@@ -51,6 +51,15 @@ This section contains a collection of academic research papers focused on blockc
 
 
 ### Cybercrime
+
+- [Understanding cybercrime in ‘real world’ policing and law enforcement](https://journals.sagepub.com/doi/10.1177/0032258X221107584) <mark style="background-color: #FF7E24">**TLDR**</mark> This paper provides an in-depth exploration of cybercrime, highlighting its growing prevalence and the challenges faced by law enforcement in addressing these crimes. It delves into the technological, individual, social, and situational aspects that foster cybercrime, offering insights into how this knowledge can inform more effective policing strategies. The study emphasizes the complexity and evolving nature of cybercrime, underscoring the need for specialized knowledge and approaches in both investigation and prevention.
+
+- [Cybercrimes: A Proposed Taxonomy and Challenges](https://www.semanticscholar.org/reader/9931106635614064e4cdb0fd0dff7b9cca2fad10) <mark style="background-color: #FF7E24">**TLDR**</mark> This paper presents an extensive survey on cybersecurity, proposing a new taxonomy for cybercrime that encompasses various types of cyberattacks. It categorizes recent incidents based on fundamental cybersecurity principles like confidentiality, integrity, and availability, and analyzes these incidents to identify challenges in the field. The study also discusses the evolution and increasing complexity of cybercrimes, highlighting the need for updated security strategies and future research directions in cybersecurity.
+
+- [Conceptualizing Cybercrime: Definitions, Typologies and Taxonomies](https://www.mdpi.com/2673-6756/2/2/28) <mark style="background-color: #FF7E24">**TLDR**</mark>
+This paper addresses the complexities and inconsistencies in defining and understanding cybercrime across different jurisdictions, highlighting the impact on legal, policy, and academic spheres. Through a structured literature review, it identifies key definitions, typologies, and taxonomies of cybercrime from both academic and non-academic sources, culminating in a new classification framework to better understand cybercrime and cyberdeviance. The review acknowledges ongoing challenges in conceptualizing cybercrime but offers recommendations for future work towards a universal understanding and a comprehensive classification system.
+
+- [A taxonomy of cyber-harms: Defining the impacts of cyber-attacks and understanding how they propagate](https://watermark.silverchair.com/tyy006.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2MwggNfBgkqhkiG9w0BBwagggNQMIIDTAIBADCCA0UGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmwBtWEXUtcEmn0sWAgEQgIIDFp7Hva3KZlQliSfiarBTGqvBfa4JxcxskltCBEzMNS47Rbs4LSE2o-rTPSXyf7Z3uFW7JIp82-KOoFy2xkr3Tk4YLZwRKcKtWkxPwiLz3hgzAcKnYNWtCEKMgUefvefjkR60HCD2-xi293V631F2RNk-RIox8u3JR7OHAgja2SvKPHxEU7MslzYckjeFtVLlmv1ulJIQIqFphwYRAZ1KnWZOK57vNspIYdc3l3541-L4lL61GTbuPHHSpofwMlGHk0PebKmVtWAXap_cYiSjO76S9UO_FjISHmct6_01EdJwxyMEpEuiWi54UMgVFTBl9OjRoAcYU4IzxdoUNB1ZckokaNXtBZCJ6-iPbJ8JVV-Wv9ZyfVT9zaAQkRD64eWiNX8OBb7iVLjb8Hi0PUJdwST6NmMhzaqiLzSK7ju2PZQ5qpiJvgLAAya2XqzCj_dXQR7BNJtgcTURw-Fwh8CpXrEnLQnkUONSTetpNgITThX0rrdq7D0adh1489zmG3NJXgWMMhhIT5U2ruM_qwJpswu1w7Uf1dLovMY8wur-QsnbYqULAdp_nupK1bcyH4mAvR4O-Z9890dRYTFUEXzy-YcyVlSwv9g6xFhtvAp7Qi5aJcIxAYM50YeR1GlxXoDrVhLlxTFzsRKSwIRQqrxmzxXrxqjeWDO5Z3XGJ2lRRdz_Cgz3aHjnlDhJ6qvlVu4UJpemhZ8Zf3ORoBma7uc7bhU-HGdbtuwFpm59YdE4kJIB6sugKNvwzwwwk6tWZ-u8Co5U_d8uJFt4rL1x2yM0Cf3pYdmGrAHJnmmLt9l3bBhLF6UFIL67ofoYF12nhxR0HfBCi_EOKS_dyAIxh-YDV2fhoA7-ANb6bRW6LE6Q4LNf7DH_i0jAnrCrI89LKn0G7MqHYxYClQkMJbzEazhBXJV1GcOcEm6mLPhVm6mT3S2xNTxSD_jsvmjBaWKa9togYGfmy3F4VzMYDY5Dlw8m2ye6AOaZRhTE7GgXJc7dwae5w3Z9kFheka1d_ckpvw5XDOH55WiBM0EWpHi8gIMwVJi2p_BPAWs) <mark style="background-color: #FF7E24">**TLDR**</mark> This article examines the rapidly evolving threat landscape of cyberattacks and the challenges organizations face in measuring and understanding the harm caused by such incidents. It presents a taxonomy of cyber-harms based on extensive literature review and case studies, categorizing them into physical/digital, economic, psychological, reputational, and social/societal harms. The article also analyzes real-world cases, including incidents at Sony, JPMorgan, and Ashley Madison, to illustrate how different types of cyber-harm interconnect and propagate, ultimately advocating for analytical tools to help organizations assess and manage these harms effectively.
 
 
 ## Resources 
@@ -217,6 +226,12 @@ Maltego is a highly efficient tool for cybercrime investigation, known for seaml
 
 - **ciphertrace** [Crime and Anti-Money Laundering Report October 2022](https://ciphertrace.com/wp-content/uploads/2023/03/Ciphertrace-CAML-Report-Q3_FINAL.pdf)
 
+- **CYBERSECURITY VENTURES** [Cyberwarfare In The C-Suite](https://cybersecurityventures.com/wp-content/uploads/2021/01/Cyberwarfare-2021-Report.pdf)
+
+- **Apple** [The Continued Threat to Personal Data: Key Factors Behind the 2023 Increase](https://www.apple.com/newsroom/pdfs/The-Continued-Threat-to-Personal-Data-Key-Factors-Behind-the-2023-Increase.pdf)
+
+- **Apple** [2022 The Rising Threat to Consumer Data in the Cloud](https://www.apple.com/newsroom/pdfs/The-Rising-Threat-to-Consumer-Data-in-the-Cloud.pdf)
+
 ### Government Reports 
 
 - **Federal Bureau of Investigation (FBI)** [Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) <mark style="background-color: #FF7E24">**TLDR**</mark> This website aims to provide transparency, create easier access, and expand awareness of criminal, and noncriminal, law enforcement data sharing; improve accountability for law enforcement; and provide a foundation to help shape public policy with the result of a safer nation. Use the CDE to discover available data through visualizations, download data in .csv format, and other large data files.
@@ -228,6 +243,8 @@ Maltego is a highly efficient tool for cybercrime investigation, known for seaml
 - **Federal Trade Commission (FTC)** [Consumer Sentinel Network](https://www.ftc.gov/enforcement/consumer-sentinel-network/reports)<mark style="background-color: #FF7E24">**TLDR**</mark> Consumer Sentinel is a unique investigative cyber tool that gives members of the Consumer Sentinel Network access to millions of reports.
 
 - **Federal Trade Commission (FTC)** [Consumer Sentinel Network Data Book 2022](https://www.ftc.gov/system/files/ftc_gov/pdf/CSN-Data-Book-2022.pdf)
+
+- **United States Government Accountability Office (GAO)** [Reporting Mechanisms Vary, and Agencies Face Challenges in Developing Metrics](https://www.gao.gov/assets/gao-23-106080.pdf)
 
 
 
