@@ -242,11 +242,11 @@ Maltego is a highly efficient tool for cybercrime investigation, known for seaml
 
 For ethical hackers and pen testers seeking to familiarize themselves with various legal requirements and regulations, the following resources can be highly beneficial:
 
-- [**International Association of Privacy Professionals (IAPP)**]((https://iapp.org/)): IAPP offers resources on global privacy laws and regulations, which can be invaluable for understanding the legal landscape in different jurisdictions. Their website provides up-to-date information, training, and certifications in data protection.
+- [**International Association of Privacy Professionals (IAPP)**](https://iapp.org/): IAPP offers resources on global privacy laws and regulations, which can be invaluable for understanding the legal landscape in different jurisdictions. Their website provides up-to-date information, training, and certifications in data protection.
 
 - [**SANS Institute**](https://www.sans.org/) : SANS is a trusted source for cybersecurity training and certifications. They offer courses and materials specifically focused on legal issues in cybersecurity. Visit their website for more information.
 
-- [**Cybersecurity and Infrastructure Security Agency (CISA)**]((https://www.cisa.gov/)): CISA provides guidelines and resources on cybersecurity best practices and compliance with U.S. laws. Their website is a valuable resource for staying informed about U.S. cybersecurity regulations.
+- [**Cybersecurity and Infrastructure Security Agency (CISA)**](https://www.cisa.gov/): CISA provides guidelines and resources on cybersecurity best practices and compliance with U.S. laws. Their website is a valuable resource for staying informed about U.S. cybersecurity regulations.
 
 - [**EFF's Electronic Frontier Foundation**](https://www.eff.org/): EFF offers insights into privacy laws, digital rights, and related legal matters. Visit their site for resources and updates on legal issues in the digital world.
 
