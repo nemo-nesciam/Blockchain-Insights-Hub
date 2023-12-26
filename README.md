@@ -4,7 +4,7 @@
 BlockchainInsightsHub is a comprehensive GitHub repository offering a wide array of resources in the blockchain realm, including the latest research, crypto crime reports, regulatory updates, and tools for blockchain development and analytics. It serves as a one-stop hub for enthusiasts, developers, researchers, and regulators, providing essential insights and tools for navigating and understanding the complex landscape of blockchain and cryptocurrencies. Simply click on a topic of interest to jump directly to that specific section.
 
 
-| [Research](#research) | [Resources](#resources)    | [Repos](#repositories)     | [AI](#artificial-intelligence)| [Associations](#associations)|  [Reports](#reports)   |   [Regulation](#regulation)   |
+| [Research](#research) | [Resources](#resources)    | [Repos](#repositories)     | [AI](#artificial-intelligence)| [Nonprofits](#associations)|  [Reports](#reports)   |   [Regulation](#regulation)   |
 |-----------------------|----------------------------|----------------------------|-------------------------------|------------------------------|------------|----------------|
 | [Blockchain](#blockchain) | [General](#general)        | [Blockchain](#blockchain-1)| [Blockchain](#blockchain-1)   | [Blockchain](#blockchain-2)  |  [Private](#private-reports)   | [Cryptocurrency](#cryptocurrency-regulation) |
 | [Cybercrime](#cybercrime)                      | [Security](#security)      |                            |                               |    [Cybersecurity](#cybersecurity-1)                              | [Government](#government-reports) | [Cybersecurity](#cybersecurity-regulation)  |
@@ -242,7 +242,7 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 <mark style="background-color: #FF7E24">**TLDR**</mark> Autonolas offers an open-source software stack designed to decentralize off-chain processes, particularly useful for DAO operations. This platform aims to unify off-chain code and consolidate existing data, computation, and transaction automation processes, thereby enhancing control and reducing dependency on individual humans and bots.
 
 
-## Associations
+## Nonprofits
 
 ### Blockchain
 
@@ -262,6 +262,15 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 [Open Web Application Security Project (OWASP)](https://owasp.org/www-community/Threat_Modeling_Process)
 <mark style="background-color: #FF7E24">**TLDR**</mark>  OWASP is a nonprofit foundation that works to improve the security of software. It's known for its community-led open source software projects, extensive documentation, guidelines, tools, and forums. The OWASP Top 10, a standard awareness document for developers and web application security, is one of their most well-known publications, listing the most critical security risks to web applications.
+
+[National Institute of Standards and Technology (NIST)](https://www.nist.gov/) 
+<mark style="background-color: #FF7E24">**TLDR**</mark>  NIST is a non-regulatory federal agency within the U.S. Department of Commerce. Its mission is to promote innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life. NIST is also known for developing cybersecurity guidelines, frameworks, and standards to help organizations manage cybersecurity risks.
+
+[Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> CVE is a list of entries—each containing an identification number, a description, and at least one public reference—for publicly known cybersecurity vulnerabilities. The purpose of the CVE program is to facilitate the sharing of data and to alert users about vulnerabilities that have been identified in various products and services. This system provides a standardized method for assessing and sharing information on vulnerabilities and exposures, and helps to coordinate the response to security threats across platforms and organizations. 
+
+[CVE Numbering Authority (CNA)](https://www.cve.org/ProgramOrganization/CNAs)
+<mark style="background-color: #FF7E24">**TLDR**</mark> CNAs are organizations from around the world that are authorized to assign CVE IDs to vulnerabilities affecting products within their distinct, agreed-upon scope, and to publish information about those vulnerabilities. CNAs include software vendors, open-source projects, coordination centers, bug bounty service providers, and research groups. They play a crucial role in the CVE program by ensuring that each identified vulnerability receives a unique identifier, which is essential for tracking and managing cybersecurity issues across various platforms and systems.
 
 
 ## Reports
