@@ -15,7 +15,7 @@ BlockchainInsightsHub is a comprehensive GitHub repository offering a wide array
 
 ## Research 
 
-### Academic
+### Blockchain
 
 This section contains a collection of academic research papers focused on blockchain technology, covering a wide range of topics including security measures, anomaly detection, and network vulnerabilities. The papers explore various aspects of blockchain networks, from advanced techniques for monitoring and detecting unusual activities to comprehensive surveys of existing models and methodologies. Each study contributes to the broader understanding of blockchain's capabilities, challenges, and future research directions.
 
@@ -48,6 +48,9 @@ This section contains a collection of academic research papers focused on blockc
 
 
 - [Detecting Ponzi Schemes on Ethereum: Towards Healthier Blockchain Technology](https://user.it.uu.se/~eding810/conferences/WWW18.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> The paper discusses the increasing popularity of blockchain technology and the concurrent rise of scams like Ponzi schemes on the Ethereum platform. It introduces a method to detect these schemes using data mining and machine learning techniques. This approach involves extracting features from user accounts and operation codes of Ethereum smart contracts to build a classification model. The model effectively identifies potential Ponzi schemes, even at the moment of their creation, with high accuracy. The study estimates over 400 active Ponzi schemes on Ethereum and suggests developing a uniform platform for evaluating and monitoring smart contracts to provide early warnings of scams.
+
+
+### Cybercrime
 
 
 ## Resources 
