@@ -225,6 +225,9 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 - [**EFF's Electronic Frontier Foundation**](https://www.eff.org/): EFF offers insights into privacy laws, digital rights, and related legal matters. Visit their site for resources and updates on legal issues in the digital world.
 
 - **Cyber Law Blogs and News Sites**: Websites like [**Cybersecurity Law Report**](https://www.cybersecuritylawreport.com/) and [**Lawfare**](https://www.lawfareblog.com/) provide articles, analysis, and updates on cybersecurity law and policy.
+
+- [**OWASP Threat Dragon**](https://owasp.org/www-project-threat-dragon/): OWASP Threat Dragon allows users to create diagrams of their software architecture and visually map out potential security threats. It also includes a rule engine to suggest common threats and mitigations based on the elements present in the diagrams. This tool is useful for security analysts, software developers, and system architects to understand and address security risks early in the software development lifecycle. 
+
 ## Repositories
 
 ### Blockchain
