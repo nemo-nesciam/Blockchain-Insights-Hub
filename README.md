@@ -154,6 +154,16 @@ This paper addresses the complexities and inconsistencies in defining and unders
 
 ### Development
 
+[Alchemy](https://www.alchemy.com/) 
+<mark style="background-color: #FF7E24">**TLDR**</mark>  Alchemy is a blockchain development platform that provides tools for developers to build, scale, and operate decentralized applications (dApps) on the Ethereum network. It offers enhanced APIs, real-time data, powerful analytics, and other features to facilitate the development process.
+
+[Infura](https://www.infura.io/) 
+<mark style="background-color: #FF7E24">**TLDR**</mark> Infura is a service that provides Ethereum and IPFS infrastructure and developer tools. It offers an easy-to-use API that allows developers to connect to Ethereum nodes without having to set up and maintain their own blockchain infrastructure. Infura is widely used for its reliability and scalability in handling Ethereum network requests.
+
+[Moralis](https://moralis.io/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> 
+Moralis is a platform that provides tools and services to simplify the development of decentralized applications (dApps) on various blockchain networks, including Ethereum. It offers a suite of features such as a fully managed, infinitely scalable backend infrastructure, real-time database synchronization, user authentication, and easy-to-use SDKs. 
+
 [ZettaBlock](https://www.zettablock.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> ZettaBlock is an enterprise-grade, full-stack Web3 infrastructure platform that specializes in indexing and analytics, effectively merging on-chain and off-chain data. Designed to support real-time, public-facing applications, it allows developers to build reliable GraphQL APIs using SQL in a matter of minutes, without the need to focus on data processing at the frontend or backend. Positioned as an institutional-grade platform, ZettaBlock offers infinite scalability and the ability to unify private and on-chain data, apply custom logic, and instantly generate APIs. This infrastructure-as-code tool significantly reduces the time and resources needed for customers to orchestrate modern data platforms, making it a vital asset in the Web3 development space.
 
@@ -162,6 +172,10 @@ This paper addresses the complexities and inconsistencies in defining and unders
 
 [BuidlGuidl](https://app.buidlguidl.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark>  BuidlGuidl is a collaborative group focused on building tools with Scaffold-ETH, aiming to empower builders in creating resources and prototypes for the Ethereum ecosystem. The group focuses on developing forkable components with Scaffold-ETH, offering builders the flexibility to work on various projects, including new voting system components and challenges for SpeedRunEthereum. Members can join BuidlGuidl after completing the first four challenges on SpeedRunEthereum.
+
+[REMIX](https://remix.ethereum.org/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> Remix is an open-source web and desktop application used for writing, deploying, and testing smart contracts for Ethereum. It's commonly used by developers working with Ethereum's blockchain technology. Remix provides a user-friendly interface and a suite of tools that make it easier to write and debug Solidity code (Ethereum's smart contract language), interact with smart contracts, and manage Ethereum transactions. 
+
 
 ### OSINT
 
