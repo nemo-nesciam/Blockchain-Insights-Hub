@@ -14,6 +14,8 @@ BlockchainInsightsHub is a comprehensive GitHub repository offering a wide array
 |                       | [Cybersecurity](#cybersecurity)            |                            |                               |              |            |                |
 
 
+[The image is an infographic displaying the most common types of reported crypto scams since 2018, highlighting data from the Federal Trade Commission](https://github.com/nemo-nesciam/Blockchain-Insights-Hub/blob/main/assets/01_Most-Common-Types-of-Crypto-Scams-700x547.png)
+
 ## Research 
 
 ### Blockchain
