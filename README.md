@@ -11,7 +11,7 @@ BlockchainInsightsHub is a comprehensive GitHub repository offering a wide array
 |                       | [Recovery](#recovery)      |                            |                               |                              |            |    [Privacy](#privacy-regulation)     |
 |                       | [Development](#development)|                            |                               |                      |            |                |
 |                       | [OSINT](#osint)            |                            |                               |              |            |                |
-|                       | [Cybersecurity](#osint)            |                            |                               |              |            |                |
+|                       | [Cybersecurity](#cybersecurity)            |                            |                               |              |            |                |
 
 
 ## Research 
@@ -275,7 +275,15 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 ###  Cybersecurity Regulation
 
-- [BETTER CYBERCRIME METRICS ACT](https://www.congress.gov/117/plaws/publ116/PLAW-117publ116.pdf)
+- [BETTER CYBERCRIME METRICS ACT](https://www.congress.gov/117/plaws/publ116/PLAW-117publ116.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> This law aims to establish improved cybercrime reporting mechanisms and develop a comprehensive taxonomy for categorizing various types of cybercrime and cyber-enabled crime, enhancing the United States' capability to understand and address these growing threats.
+
+- [Federal Trade Commission Act](https://www.ftc.gov/legal-library/browse/statutes/federal-trade-commission-act) <mark style="background-color: #FF7E24">**TLDR**</mark> This law prohibits deceptive acts and practices in business, including those related to data security.
+
+- [Gramm-Leach-Bliley Act (GLB)](https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act)<mark style="background-color: #FF7E24">**TLDR**</mark> This law requires companies to protect the customer data they collect. 
+
+- [Cybersecurity Information Sharing Act (CISA)](https://www.congress.gov/event/117th-congress/house-event/114172/text?s=1&r=84) <mark style="background-color: #FF7E24">**TLDR**</mark> This law allows companies to monitor network traffic, including taking defensive measures on their own systems.  And, it encourages the sharing of cyber-threat information between companies and with the government. 
+
+- [Health Insurance Portability and Accountability Act (“HIPAA”)](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html) <mark style="background-color: #FF7E24">**TLDR**</mark> This law includes cybersecurity requirements applicable to protected health information in the possession of certain “covered entities” and their “business associates”.
 
 ### Privacy Regulation
 
