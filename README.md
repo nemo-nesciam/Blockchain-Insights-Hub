@@ -11,6 +11,7 @@ BlockchainInsightsHub is a comprehensive GitHub repository offering a wide array
 |                       | [Recovery](#recovery)      |                            |                               |                              |            |    [Privacy](#privacy-regulation)     |
 |                       | [Development](#development)|                            |                               |                      |            |                |
 |                       | [OSINT](#osint)            |                            |                               |              |            |                |
+|                       | [Cybersecurity](#osint)            |                            |                               |              |            |                |
 
 
 ## Research 
@@ -175,6 +176,20 @@ Maltego is a highly efficient tool for cybercrime investigation, known for seaml
 
 - [FOCA (Fingerprinting Organizations with Collected Archives)](https://github.com/ElevenPaths/FOCA)<mark style="background-color: #FF7E24">**TLDR**</mark> FOCA is a specialized tool primarily used for extracting metadata and hidden information from various documents found on web pages. It supports a wide range of document formats, including Microsoft Office, Open Office, PDF, Adobe InDesign, and SVG files. FOCA leverages search engines like Google, Bing, and DuckDuckGo to find documents, and it also has the capability to analyze local files for EXIF information from graphic files. The tool conducts a thorough analysis of the information discovered through URLs before downloading the file, making it a comprehensive tool for uncovering hidden data in documents​​​​.
 
+
+###  Cybersecurity Resources
+
+For ethical hackers and pen testers seeking to familiarize themselves with various legal requirements and regulations, the following resources can be highly beneficial:
+
+- [**International Association of Privacy Professionals (IAPP)**](https://iapp.org/): IAPP offers resources on global privacy laws and regulations, which can be invaluable for understanding the legal landscape in different jurisdictions. Their website provides up-to-date information, training, and certifications in data protection.
+
+- [**SANS Institute**](https://www.sans.org/) : SANS is a trusted source for cybersecurity training and certifications. They offer courses and materials specifically focused on legal issues in cybersecurity. Visit their website for more information.
+
+- [**Cybersecurity and Infrastructure Security Agency (CISA)**](https://www.cisa.gov/): CISA provides guidelines and resources on cybersecurity best practices and compliance with U.S. laws. Their website is a valuable resource for staying informed about U.S. cybersecurity regulations.
+
+- [**EFF's Electronic Frontier Foundation**](https://www.eff.org/): EFF offers insights into privacy laws, digital rights, and related legal matters. Visit their site for resources and updates on legal issues in the digital world.
+
+- **Cyber Law Blogs and News Sites**: Websites like [**Cybersecurity Law Report**](https://www.cybersecuritylawreport.com/) and [**Lawfare**](https://www.lawfareblog.com/) provide articles, analysis, and updates on cybersecurity law and policy.
 ## Repositories
 
 ### Blockchain
@@ -260,17 +275,7 @@ Maltego is a highly efficient tool for cybercrime investigation, known for seaml
 
 ###  Cybersecurity Regulation
 
-For ethical hackers and pen testers seeking to familiarize themselves with various legal requirements and regulations, the following resources can be highly beneficial:
-
-- [**International Association of Privacy Professionals (IAPP)**](https://iapp.org/): IAPP offers resources on global privacy laws and regulations, which can be invaluable for understanding the legal landscape in different jurisdictions. Their website provides up-to-date information, training, and certifications in data protection.
-
-- [**SANS Institute**](https://www.sans.org/) : SANS is a trusted source for cybersecurity training and certifications. They offer courses and materials specifically focused on legal issues in cybersecurity. Visit their website for more information.
-
-- [**Cybersecurity and Infrastructure Security Agency (CISA)**](https://www.cisa.gov/): CISA provides guidelines and resources on cybersecurity best practices and compliance with U.S. laws. Their website is a valuable resource for staying informed about U.S. cybersecurity regulations.
-
-- [**EFF's Electronic Frontier Foundation**](https://www.eff.org/): EFF offers insights into privacy laws, digital rights, and related legal matters. Visit their site for resources and updates on legal issues in the digital world.
-
-- **Cyber Law Blogs and News Sites**: Websites like [**Cybersecurity Law Report**](https://www.cybersecuritylawreport.com/) and [**Lawfare**](https://www.lawfareblog.com/) provide articles, analysis, and updates on cybersecurity law and policy.
+- [BETTER CYBERCRIME METRICS ACT](https://www.congress.gov/117/plaws/publ116/PLAW-117publ116.pdf)
 
 ### Privacy Regulation
 
@@ -311,6 +316,7 @@ This section provides an overview of various global privacy regulations, highlig
 - [Utah Consumer Privacy Act - UCPA](https://le.utah.gov/~2022/bills/static/SB0227.html)
 
 - [Virginia Consumer Data Protection Act - VCDPA](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
+
 
 
 
