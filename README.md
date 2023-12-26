@@ -261,7 +261,9 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 - **United States Government Accountability Office (GAO)** [Reporting Mechanisms Vary, and Agencies Face Challenges in Developing Metrics](https://www.gao.gov/assets/gao-23-106080.pdf)
 
+- **Congressional Research Service** [NIBRS Participation Rates and Federal Crime Data Quality](https://crsreports.congress.gov/product/pdf/IN/IN11936)
 
+- **Congressional Research Service** [The National Incident-Based Reporting System (NIBRS): Benefits and Issues](https://crsreports.congress.gov/product/pdf/R/R46668)
 
 ## Regulation
 
