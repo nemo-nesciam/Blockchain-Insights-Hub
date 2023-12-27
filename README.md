@@ -156,6 +156,10 @@ This paper addresses the complexities and inconsistencies in defining and unders
 [Echidna](https://github.com/crytic/echidna) <mark style="background-color: #FF7E24">**TLDR**</mark> 
 Echidna is a sophisticated tool used for fuzzing Ethereum smart contracts to identify vulnerabilities and bugs. It employs property-based testing where developers define the properties that a contract should always satisfy, and Echidna generates various inputs to test these properties. This tool is essential in the Ethereum development ecosystem for ensuring smart contract security and reliability, as it helps detect potential exploits like reentrancy and integer overflows before deployment on the blockchain.
 
+[SlowMist Hacked](https://hacked.slowmist.io/en/) <mark style="background-color: #FF7E24">**TLDR**</mark> 
+SlowMist Hacked is a website that tracks and reports on various hacking incidents in the blockchain and cryptocurrency domains. The site details different types of security breaches and attacks on blockchain platforms and digital wallets, providing insights into the methods used by hackers and the impact of these incidents on the blockchain ecosystem. It serves as a resource for understanding the vulnerabilities and security challenges in the rapidly evolving world of blockchain technology.
+
+
 ### Recovery
 
 [Web3 Antivirus (W3A)](https://web3antivirus.io/)
