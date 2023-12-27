@@ -117,6 +117,13 @@ This paper addresses the complexities and inconsistencies in defining and unders
 [BLOCKSEC Phalcon Explorer](https://phalcon.xyz/explorer)
 <mark style="background-color: #FF7E24">**TLDR**</mark> The Phalcon Explorer is a sophisticated tool designed to aid developers, traders, and researchers in intuitively understanding and dissecting complex transactions on blockchain platforms. It is known for its ability to handle complicated transactions with thousands of internal transactions, providing reliable results and analyzing over 500K transactions per month. 
 
+[BLOCKSEC MetaSleuth](https://metasleuth.io/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> MetaSleuth is a crypto tracking and investigation platform. It provides a visual flow of funds map to help users analyze and track fund transfers, which can be particularly useful for compliance services by exchanges, wallets, and Virtual Asset Service Providers (VASPs). It's designed to allow users to investigate and share findings about fund transfers, which could be a valuable tool for addressing and understanding blockchain transactions and potential security incidents.
+
+[BLOCKSEC MetaDock](https://blocksec.com/metadock)
+<mark style="background-color: #FF7E24">**TLDR**</mark> 
+MetaDock is a browser extension offered by BlockSec designed to enhance the experience of crypto users navigating the blockchain. It offers features such as viewing fund flows with one click, gaining insights from high-value correlated addresses, and understanding risks associated with NFT collections via a comprehensive radar chart. Additionally, MetaDock provides enhanced labels, compliance scores, and security alerts for addresses and transactions, interacts with popular blockchain tools, and aims for a more user-friendly blockchain exploration experience. It emphasizes user privacy, not collecting or uploading user information, and allows users to opt-out of features at any time.
+
 [Immunefi](https://immunefi.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> Immunefi is a cybersecurity platform specializing in blockchain and smart contract security, primarily known for hosting bug bounty programs to identify and resolve vulnerabilities in crypto projects. It acts as a bridge between whitehat hackers and blockchain projects, incentivizing the discovery of security flaws to enhance the overall safety and integrity of the DeFi and crypto ecosystem.
 
