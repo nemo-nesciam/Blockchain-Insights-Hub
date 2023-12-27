@@ -11,8 +11,40 @@ Discover a world of blockchain and cybersecurity insights with the Blockchain In
 |                       | [Recovery](#recovery)      |                            |                               |                         |            |    [Privacy](#privacy-regulation)     |
 |                       | [Development](#development)|                            |                               |                      |            |                |
 |                       | [OSINT](#osint)            |                            |                               |              |            |                |
-|                       | [Cybersecurity](#cybersecurity)            |                            |                               |              |            |                |
+|                       | [Cybersecurit](#cybersecurity)            |                            |                               |              |            |                |
 
+# Table of Contents
+
+## 1. [Research](#research)
+- [Blockchain](#blockchain)
+- [Cybercrime](#cybercrime)
+
+## 2. [Resources](#resources)
+- [General](#general)
+- [Security](#security)
+- [Recovery](#recovery)
+- [Development](#development)
+- [OSINT](#osint)
+- [Cybersecurity](#cybersecurity)
+
+## 3. [Repositories](#repositories)
+- [Blockchain](#blockchain-1)
+
+## 4. [Artificial Intelligence](#artificial-intelligence)
+- [Blockchain](#blockchain-1)
+
+## 5. [Nonprofits](#nonprofits)
+- [Blockchain](#blockchain-2)
+- [Cybersecurity](#cybersecurity-1)
+
+## 6. [Reports](#reports)
+- [Private](#private-reports)
+- [Government](#government-reports)
+
+## 7. [Regulation](#regulatio)
+- [Cryptocurrency](#cryptocurrency-regulation)
+- [Cybersecurity](#cybersecurity-regulation)
+- [Privacy](#privacy-regulation)
 
 ![Overview of DeFi Protocol Security Measures and Services](https://github.com/nemo-nesciam/Blockchain-Insights-Hub/blob/main/assets/DeFi%20Protocol%20Security%20Landscape.png "DeFi Protocol Security Landscape")
 Image citation: BlockSec. (n.d.). DeFi Protocol Security Landscape. Introduction - BlockSec Documents. https://docs.blocksec.com/about-blocksec/introduction 
