@@ -14,8 +14,8 @@ Discover a world of blockchain and cybersecurity insights with the Blockchain In
 |                       | [Cybersecurity](#cybersecurity)            |                            |                               |              |            |                |
 
 
-![The image is an infographic displaying the most common types of reported crypto scams since 2018, highlighting data from the Federal Trade Commission](https://github.com/nemo-nesciam/Blockchain-Insights-Hub/blob/main/assets/01_Most-Common-Types-of-Crypto-Scams-700x547.png "Most Common Types of Reported Crypto Scams Since 2018")
-
+![Overview of DeFi Protocol Security Measures and Services](https://github.com/nemo-nesciam/Blockchain-Insights-Hub/blob/main/assets/DeFi%20Protocol%20Security%20Landscape.png "DeFi Protocol Security Landscape")
+Image citation: BlockSec. (n.d.). DeFi Protocol Security Landscape. Introduction - BlockSec Documents. https://docs.blocksec.com/about-blocksec/introduction 
 ## Research 
 
 ### Blockchain
