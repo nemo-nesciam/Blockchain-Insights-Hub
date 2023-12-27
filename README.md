@@ -3,23 +3,13 @@
 Discover a world of blockchain and cybersecurity insights with the Blockchain Insights Hub on GitHub. This expansive repository offers a rich collection of resources, including the latest in blockchain research, thorough analyses of crypto crimes, updates on cybersecurity regulations, and an extensive suite of tools for blockchain development and cyber threat analysis. Ideal for blockchain enthusiasts, cybersecurity professionals, academic researchers, and regulatory bodies, this hub provides direct access to crucial information and tools, empowering you to stay ahead in the dynamic realms of blockchain technology and cybersecurity. Simply click on a topic of interest to jump directly to that specific section.
 
 
-
-| [Research](#research) | [Resources](#resources)    | [Repos](#repositories)     | [AI](#artificial-intelligence)| [Nonprofits](#nonprofits)|  [Reports](#reports)   |   [Regulation](#regulation)   |
-|-----------------------|----------------------------|----------------------------|-------------------------------|------------------------------|------------|----------------|
-| [Blockchain](#blockchain) | [General](#general)        | [Blockchain](#blockchain-1)| [Blockchain](#blockchain-1)   | [Blockchain](#blockchain-2)  |  [Private](#private-reports)   | [Cryptocurrency](#cryptocurrency-regulation) |
-| [Cybercrime](#cybercrime)                      | [Security](#security)      |                            |                               |    [Cybersecurity](#cybersecurity-1)                              | [Government](#government-reports) | [Cybersecurity](#cybersecurity-regulation)  |
-|                       | [Recovery](#recovery)      |                            |                               |                         |            |    [Privacy](#privacy-regulation)     |
-|                       | [Development](#development)|                            |                               |                      |            |                |
-|                       | [OSINT](#osint)            |                            |                               |              |            |                |
-|                       | [Cybersecurit](#cybersecurity)            |                            |                               |              |            |                |
-
 # Table of Contents
 
-## 1. [Research](#research)
+## [1. Research](#research)
 - [Blockchain](#blockchain)
 - [Cybercrime](#cybercrime)
 
-## 2. [Resources](#resources)
+## [2. Resources](#resources)
 - [General](#general)
 - [Security](#security)
 - [Recovery](#recovery)
@@ -27,21 +17,21 @@ Discover a world of blockchain and cybersecurity insights with the Blockchain In
 - [OSINT](#osint)
 - [Cybersecurity](#cybersecurity)
 
-## 3. [Repositories](#repositories)
+## [3. Repositories](#repositories)
 - [Blockchain](#blockchain-1)
 
-## 4. [Artificial Intelligence](#artificial-intelligence)
+## [4. Artificial Intelligence](#artificial-intelligence)
 - [Blockchain](#blockchain-1)
 
-## 5. [Nonprofits](#nonprofits)
+## [5. Nonprofits](#nonprofits)
 - [Blockchain](#blockchain-2)
 - [Cybersecurity](#cybersecurity-1)
 
-## 6. [Reports](#reports)
+## [6. Reports](#reports)
 - [Private](#private-reports)
 - [Government](#government-reports)
 
-## 7. [Regulation](#regulatio)
+## [7. Regulation](#regulatio)
 - [Cryptocurrency](#cryptocurrency-regulation)
 - [Cybersecurity](#cybersecurity-regulation)
 - [Privacy](#privacy-regulation)
