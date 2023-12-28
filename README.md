@@ -142,6 +142,10 @@ This paper addresses the complexities and inconsistencies in defining and unders
 [OpenZeppelin](https://www.openzeppelin.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> OpenZeppelin is a leading library for smart contract development on the Ethereum blockchain, offering secure, audited, and reusable code modules like ERC20 and ERC721 tokens, access control, and security features. It's widely used by developers to build decentralized applications, ensuring best practices and reducing the risk of vulnerabilities in smart contract code.
 
+[Audit Wizard](https://www.auditwizard.io/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> Audit Wizard is a unique platform designed for the auditing of smart contracts. It integrates all essential tools required for this purpose, facilitating seamless code security. The platform addresses the complexities of the web3 security landscape by offering an all-in-one solution that includes static code analysis, proof-of-concept (PoC) testing, AI threat modeling, and automatic audit report generation, all accessible through a user-friendly interface without the need for downloads. Additionally, Audit Wizard provides comprehensive web3 security tools, such as vulnerability scanning, AI-driven vulnerability detection, and PoC testing, enhancing the overall security and reliability of smart contracts​​​​​​.
+
+
 [Forta](https://forta.org/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> Forta is a real-time monitoring and security platform designed for the decentralized finance (DeFi) ecosystem, providing tools to detect and prevent threats in smart contracts and blockchain protocols. It leverages a decentralized network of independent node operators and a suite of detection bots to ensure the security and integrity of on-chain activities, enhancing the resilience of DeFi applications against attacks and vulnerabilities.
 
