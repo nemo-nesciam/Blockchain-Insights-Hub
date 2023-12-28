@@ -45,6 +45,12 @@ Discover a world of blockchain and cybersecurity insights with the Blockchain In
 ![Overview of DeFi Protocol Security Measures and Services](https://github.com/nemo-nesciam/Blockchain-Insights-Hub/blob/main/assets/DeFi%20Protocol%20Security%20Landscape.png "DeFi Protocol Security Landscape")
 Image citation: BlockSec. (n.d.). DeFi Protocol Security Landscape. Introduction - BlockSec Documents. <https://docs.blocksec.com/about-blocksec/introduction>
 
+## App Usage Key
+
+- 🔴 - Apps I use occasionally
+- 🟡 - Apps I use frequently
+- 🟢 - Apps I use all the time
+
 ## Research
 
 ### Blockchain
@@ -504,10 +510,5 @@ This section provides an overview of various global privacy regulations, highlig
 
 - [Virginia Consumer Data Protection Act - VCDPA](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 
-## App Usage Key
-
-- 🔴 - Apps I use occasionally
-- 🟡 - Apps I use frequently
-- 🟢 - Apps I use all the time
 
 [**Top**](#research)
