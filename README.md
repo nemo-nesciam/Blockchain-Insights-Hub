@@ -152,6 +152,9 @@ This paper addresses the complexities and inconsistencies in defining and unders
 <mark style="background-color: #FF7E24">**TLDR**</mark> 
 MetaDock is a browser extension offered by BlockSec designed to enhance the experience of crypto users navigating the blockchain. It offers features such as viewing fund flows with one click, gaining insights from high-value correlated addresses, and understanding risks associated with NFT collections via a comprehensive radar chart. Additionally, MetaDock provides enhanced labels, compliance scores, and security alerts for addresses and transactions, interacts with popular blockchain tools, and aims for a more user-friendly blockchain exploration experience. It emphasizes user privacy, not collecting or uploading user information, and allows users to opt-out of features at any time.
 
+[EthTx Transaction Decoder](https://ethtx.info/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> EthTx.info is a platform that provides detailed information about Ethereum transactions. It allows users to explore and analyze Ethereum blockchain transactions, offering insights into the specifics of each transaction, such as the sender, receiver, amount, gas used, and other relevant data. If you need information about a particular transaction, you can use EthTx.info by entering the transaction hash in their search bar. 
+
 [Immunefi](https://immunefi.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> Immunefi is a cybersecurity platform specializing in blockchain and smart contract security, primarily known for hosting bug bounty programs to identify and resolve vulnerabilities in crypto projects. It acts as a bridge between whitehat hackers and blockchain projects, incentivizing the discovery of security flaws to enhance the overall safety and integrity of the DeFi and crypto ecosystem.
 
@@ -297,6 +300,11 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 <mark style="background-color: #FF7E24">GitHub</mark> [**Immunefi PoC Templates**](https://github.com/immunefi-team/forge-poc-templates) The GitHub repository "immunefi-team/forge-poc-templates" is a collaborative project designed to provide reusable and modifiable Proof of Concept (PoC) examples for various Ethereum Virtual Machine (EVM) based vulnerabilities. The goal of this repository is to enhance the quality of bug reports and facilitate a more efficient and straightforward process for white-hat hackers to create PoCs and validate their findings. These templates are specifically created for testing PoCs in local environments and then submitting them to bug bounty programs, with any other usage being explicitly prohibited​​.
 
+<mark style="background-color: #FF7E24">GitHub</mark> [**Pickle Finance Contract Directory**](https://github.com/pickle-finance/contracts) 
+The GitHub repository for Pickle Finance's contracts includes a variety of Ethereum-based contracts related to the Pickle Finance ecosystem. These contracts encompass different functionalities, such as DILL contracts, main contracts, gauges, and various Pickle Jars (pJars) for different blockchain platforms like Ethereum, Polygon, OKEx, Arbitrum, Moonriver, Cronos, Aurora, Metis, Moonbeam, Optimism, Fantom, Gnosis, and Kava. The repository is a comprehensive collection of deployed contracts for Pickle Finance, detailing the architecture and tools essential for the platform's operation across multiple blockchains​​.
+
+
+
 ## Artificial Intelligence
 
 ### Blockchain
@@ -414,7 +422,7 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 - [Federal Trade Commission Act](https://www.ftc.gov/legal-library/browse/statutes/federal-trade-commission-act) <mark style="background-color: #FF7E24">**TLDR**</mark> This law prohibits deceptive acts and practices in business, including those related to data security.
 
-- [Gramm-Leach-Bliley Act (GLB)](https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act)<mark style="background-color: #FF7E24">**TLDR**</mark> This law requires companies to protect the customer data they collect. 
+- [Gramm-Leach-Bliley Act (GLB)](https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act) <mark style="background-color: #FF7E24">**TLDR**</mark> This law requires companies to protect the customer data they collect. 
 
 - [Cybersecurity Information Sharing Act (CISA)](https://www.congress.gov/event/117th-congress/house-event/114172/text?s=1&r=84) <mark style="background-color: #FF7E24">**TLDR**</mark> This law allows companies to monitor network traffic, including taking defensive measures on their own systems.  And, it encourages the sharing of cyber-threat information between companies and with the government. 
 
