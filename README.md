@@ -164,6 +164,10 @@ MetaDock is a browser extension offered by BlockSec designed to enhance the expe
 [Spearbit](https://spearbit.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> Spearbit is a technology company founded in 2021, specializing in Web3 security services. It operates as a decentralized network of security experts, providing consulting services focused on scoping, information gathering, platform security, fix recommendations, and security review updates. Spearbit's unique approach involves sourcing top talent from across the Web3 ecosystem and investing in the mentorship of new security researchers, facilitating their collaboration with industry leaders.
 
+[Sherlock](https://www.sherlock.xyz/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> 
+Sherlock.xyz offers comprehensive security auditing services for blockchain protocols, specializing in smart contracts. They boast a combination of legacy audit techniques and audit contests to create robust security audits in Web3. Their services include thorough security audits, allowing participants to find bugs and earn rewards, and the opportunity to stake USDC for yields, backed by secure protocols. Sherlock differentiates itself with a deep expertise in auditing, being recognized as an effective underwriter in Web3. They provide up to $5 million in reimbursement in the event of a hack and a $500,000 bug bounty for covered exploits, with a trustless claims process ensuring payouts are executed entirely through smart contracts without the possibility of claim blocking​​​​.
+
 [Code4rena](https://code4rena.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> Code4rena is a competitive audit platform founded in 2021, known for efficiently identifying high-severity vulnerabilities in smart contracts faster than other auditing methods. It operates as a decentralized, open organization comprising security researchers, auditors, developers, and individuals with smart contract expertise, focusing on a community-driven approach to competitive smart contract audits.
 
