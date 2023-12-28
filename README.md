@@ -246,6 +246,13 @@ Moralis is a platform that provides tools and services to simplify the developme
 [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> Brownie is a Python-based development and testing framework for smart contracts on the Ethereum network. It integrates seamlessly with the Python programming environment, offering features like automated contract testing, interactive console, and built-in debugging tools. Brownie aims to simplify the development process for Ethereum developers by providing a straightforward and Pythonic interface, making it particularly suitable for those already familiar with Python programming.
 
+[ApeWorX](https://pypi.org/project/eth-ape/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> The Ape Framework as a user-friendly Web3 development tool for compiling, testing, and interacting with smart contracts through a single command-line interface. It supports a variety of contract languages and blockchain networks, thanks to its modular plugin system. The framework, compatible with Linux, macOS, and Windows via WSL, can be installed using methods like pipx, pip, or Docker, and offers both a CLI tool and a Python SDK for comprehensive smart contract development and interaction.
+
+[Vyper](https://docs.vyperlang.org/en/stable/index.html)
+<mark style="background-color: #FF7E24">**TLDR**</mark> 
+Vyper is a contract-oriented, pythonic programming language designed for the Ethereum Virtual Machine (EVM). Its primary principles include security, aiming to make building secure smart-contracts both possible and natural; simplicity in language and compiler design; and high auditability, ensuring the code is human-readable and challenging to write misleadingly. Unlike Solidity, Vyper deliberately avoids features like modifiers, class inheritance, inline assembly, function and operator overloading, recursive calling, and infinite-length loops to enhance security and readability. Vyper doesn't seek to replace Solidity entirely but focuses on security, sometimes at the expense of functionality​​​​.
+
 [Truffle](https://trufflesuite.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> Truffle is a popular development framework for Ethereum, designed to make life easier for blockchain developers. It provides a suite of tools for writing, testing, and deploying smart contracts, with built-in support for custom migrations and network management. Truffle also integrates seamlessly with other blockchain development tools and has a user-friendly interface, making it a go-to choice for developers building on Ethereum.
 
