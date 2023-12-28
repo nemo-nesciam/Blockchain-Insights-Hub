@@ -45,11 +45,11 @@ Discover a world of blockchain and cybersecurity insights with the Blockchain In
 ![Overview of DeFi Protocol Security Measures and Services](https://github.com/nemo-nesciam/Blockchain-Insights-Hub/blob/main/assets/DeFi%20Protocol%20Security%20Landscape.png "DeFi Protocol Security Landscape")
 Image citation: BlockSec. (n.d.). DeFi Protocol Security Landscape. Introduction - BlockSec Documents. <https://docs.blocksec.com/about-blocksec/introduction>
 
-## App Usage Key
+## Personal Resource Usage Key
 
-- 🔴 - Apps I use occasionally
-- 🟡 - Apps I use frequently
-- 🟢 - Apps I use all the time
+- 🔴 ---> Resource I use occasionally
+- 🟡 ---> Resource I use frequently
+- 🟢 ---> Resource I use all the time
 
 ## Research
 
