@@ -298,6 +298,10 @@ Moralis is a platform that provides tools and services to simplify the developme
 [Truffle](https://trufflesuite.com/) :green_circle:
 <mark style="background-color: #FF7E24">**TLDR**</mark> Truffle is a popular development framework for Ethereum, designed to make life easier for blockchain developers. It provides a suite of tools for writing, testing, and deploying smart contracts, with built-in support for custom migrations and network management. Truffle also integrates seamlessly with other blockchain development tools and has a user-friendly interface, making it a go-to choice for developers building on Ethereum.
 
+[Forefy Smart Contract Auditors Space](https://smart.forefy.com/)
+mark style="background-color: #FF7E24">**TLDR**</mark> Forefy Smart Contract Auditors Space is a gamified platform designed to train and promote expert Smart Contract Security Auditors. It aims to address the limitations of traditional leaderboards in evaluating auditor skills by considering factors overlooked in these rankings, such as private audits, unique findings, customer satisfaction, and time efficiency. The platform features a structured level system where participants engage in various tasks, each with a storyline and specific goals. Their unique scoring system combines automated calculations with human oversight to evaluate solutions based on criteria like professional writing, originality, efficiency, and rarity of findings​​​​.
+
+
 ### OSINT
 
 [MALTEGO](https://www.maltego.com/) :green_circle:
@@ -355,10 +359,13 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 ### Blockchain
 
-<mark style="background-color: #FF7E24">GitHub</mark> [**Immunefi PoC Templates**](https://github.com/immunefi-team/forge-poc-templates) The GitHub repository "immunefi-team/forge-poc-templates" is a collaborative project designed to provide reusable and modifiable Proof of Concept (PoC) examples for various Ethereum Virtual Machine (EVM) based vulnerabilities. The goal of this repository is to enhance the quality of bug reports and facilitate a more efficient and straightforward process for white-hat hackers to create PoCs and validate their findings. These templates are specifically created for testing PoCs in local environments and then submitting them to bug bounty programs, with any other usage being explicitly prohibited​​.
+<b style="background-color: #FF7E24">GitHub</b> [**Immunefi PoC Templates**](https://github.com/immunefi-team/forge-poc-templates) The GitHub repository "immunefi-team/forge-poc-templates" is a collaborative project designed to provide reusable and modifiable Proof of Concept (PoC) examples for various Ethereum Virtual Machine (EVM) based vulnerabilities. The goal of this repository is to enhance the quality of bug reports and facilitate a more efficient and straightforward process for white-hat hackers to create PoCs and validate their findings. These templates are specifically created for testing PoCs in local environments and then submitting them to bug bounty programs, with any other usage being explicitly prohibited​​.
 
-<mark style="background-color: #FF7E24">GitHub</mark> [**Pickle Finance Contract Directory**](https://github.com/pickle-finance/contracts)
+<b style="background-color: #FF7E24">GitHub</b> [**Pickle Finance Contract Directory**](https://github.com/pickle-finance/contracts)
 The GitHub repository for Pickle Finance's contracts includes a variety of Ethereum-based contracts related to the Pickle Finance ecosystem. These contracts encompass different functionalities, such as DILL contracts, main contracts, gauges, and various Pickle Jars (pJars) for different blockchain platforms like Ethereum, Polygon, OKEx, Arbitrum, Moonriver, Cronos, Aurora, Metis, Moonbeam, Optimism, Fantom, Gnosis, and Kava. The repository is a comprehensive collection of deployed contracts for Pickle Finance, detailing the architecture and tools essential for the platform's operation across multiple blockchains​​.
+
+<b style="background-color: #FF7E24">GitHub</b> [**DIRP - DEFI Incident Response Playbooks**](https://github.com/0xKoda/DIRP/tree/main) :yellow_circle:
+The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incident Response Playbooks. It addresses the lack of incident response plans among DeFi protocols by providing adaptable playbooks for various scenarios. These resources include detailed flowcharts, step-by-step instructions, and additional references for effective incident management. The community is encouraged to contribute by reviewing existing content, identifying gaps, and submitting detailed, well-researched contributions to enhance the repository's effectiveness and coverage​​.
 
 ## Artificial Intelligence
 
