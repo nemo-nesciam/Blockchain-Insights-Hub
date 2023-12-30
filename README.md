@@ -95,6 +95,14 @@ This section contains a collection of academic research papers focused on blockc
 
 - [A review of blockchain cross-chain technology](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12032) <mark style="background-color: #FF7E24">**TLDR**</mark> This article examines the development, significance, and current research status of blockchain cross-chain technology, focusing on methods for data interaction and value transfer between different blockchains. It proposes an interoperability architecture to address security, privacy, and effectiveness issues, categorizing various cross-chain technologies and techniques. The paper highlights the importance of cross-chain technology in improving blockchain interconnectivity, interoperability, and scalability, offering a systematic overview of mainstream technologies and projects in this field.
 
+- [SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems](https://arxiv.org/pdf/2312.12573.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> This research paper focuses on the security aspects of cross-chain bridges, which are critical for token and data exchanges across different blockchains. The authors categorize cross-chain attacks from the past two years into 10 distinct types, each accompanied by explanations and Solidity code examples. The paper also explores existing and potential defenses against these security vulnerabilities and discusses open questions and future research directions in the realm of cross-chain bridge security​​​​​​.
+
+
+
+
+
+
+
 ### Cybercrime
 
 - [Understanding cybercrime in ‘real world’ policing and law enforcement](https://journals.sagepub.com/doi/10.1177/0032258X221107584) <mark style="background-color: #FF7E24">**TLDR**</mark> This paper provides an in-depth exploration of cybercrime, highlighting its growing prevalence and the challenges faced by law enforcement in addressing these crimes. It delves into the technological, individual, social, and situational aspects that foster cybercrime, offering insights into how this knowledge can inform more effective policing strategies. The study emphasizes the complexity and evolving nature of cybercrime, underscoring the need for specialized knowledge and approaches in both investigation and prevention.
@@ -533,3 +541,5 @@ This section provides an overview of various global privacy regulations, highlig
 
 
 [**Top**](#research)
+
+
