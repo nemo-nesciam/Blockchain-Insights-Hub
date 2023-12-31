@@ -98,11 +98,6 @@ This section contains a collection of academic research papers focused on blockc
 - [SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems](https://arxiv.org/pdf/2312.12573.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> This research paper focuses on the security aspects of cross-chain bridges, which are critical for token and data exchanges across different blockchains. The authors categorize cross-chain attacks from the past two years into 10 distinct types, each accompanied by explanations and Solidity code examples. The paper also explores existing and potential defenses against these security vulnerabilities and discusses open questions and future research directions in the realm of cross-chain bridge security​​​​​​.
 
 
-
-
-
-
-
 ### Cybercrime
 
 - [Understanding cybercrime in ‘real world’ policing and law enforcement](https://journals.sagepub.com/doi/10.1177/0032258X221107584) <mark style="background-color: #FF7E24">**TLDR**</mark> This paper provides an in-depth exploration of cybercrime, highlighting its growing prevalence and the challenges faced by law enforcement in addressing these crimes. It delves into the technological, individual, social, and situational aspects that foster cybercrime, offering insights into how this knowledge can inform more effective policing strategies. The study emphasizes the complexity and evolving nature of cybercrime, underscoring the need for specialized knowledge and approaches in both investigation and prevention.
@@ -376,6 +371,8 @@ The GitHub repository for Pickle Finance's contracts includes a variety of Ether
 The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incident Response Playbooks. It addresses the lack of incident response plans among DeFi protocols by providing adaptable playbooks for various scenarios. These resources include detailed flowcharts, step-by-step instructions, and additional references for effective incident management. The community is encouraged to contribute by reviewing existing content, identifying gaps, and submitting detailed, well-researched contributions to enhance the repository's effectiveness and coverage​​.
 
 <b style="background-color: #FF7E24">Google Docs</b> [Crisis Handbook - Smart Contract Hack](https://substack.com/redirect/8f57520a-21f0-4be7-a6e8-2fa8935063c0?j=eyJ1IjoiMXJweGUxIn0.8u_jpyqvkXZfN0M0oLan_aRBB4qs2ezAXbhFuHcCtRs) :yellow_circle: The Crisis Handbook - Smart Contract Hack by SEAL Team is a comprehensive guide for managing smart contract security incidents. It includes a detailed actions checklist, covering immediate steps like notifying relevant parties, creating a 'War Room' for collaboration, and duplicating essential documents for shared access. The handbook emphasizes the importance of assigning key roles, conducting thorough analysis and investigations, implementing protocol and web actions, and maintaining effective communication throughout the incident. Post-incident actions focus on confirming resolution, preparing for future events, and conducting a post-mortem analysis. The guide also provides advice, suggested tools, and platforms for efficient incident management and recovery efforts.
+
+<b style="background-color: #FF7E24">GitHub</b> [List of Tornado Cash Contracts on Ethereum](https://github.com/nemo-nesciam/tornado-cash-contracts-on-ethereum)
 
 ## Artificial Intelligence
 
