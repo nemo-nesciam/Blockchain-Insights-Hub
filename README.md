@@ -446,6 +446,8 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 - **ciphertrace** [Crime and Anti-Money Laundering Report October 2022](https://ciphertrace.com/wp-content/uploads/2023/03/Ciphertrace-CAML-Report-Q3_FINAL.pdf)
 
+- **CertiK**[Hack3d: The Web3 Security Quarterly Report - Q3 2023](https://indd.adobe.com/view/4c8eda1c-4668-49c6-87e8-d8cecb9cf770?submissionGuid=a57a6b4d-cdc6-4f3b-9cf0-3622dc620a6d)
+
 - **CYBERSECURITY VENTURES** [Cyberwarfare In The C-Suite](https://cybersecurityventures.com/wp-content/uploads/2021/01/Cyberwarfare-2021-Report.pdf)
 
 - **Apple** [The Continued Threat to Personal Data: Key Factors Behind the 2023 Increase](https://www.apple.com/newsroom/pdfs/The-Continued-Threat-to-Personal-Data-Key-Factors-Behind-the-2023-Increase.pdf)
