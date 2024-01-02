@@ -483,6 +483,17 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 - **Congressional Research Service** [The National Incident-Based Reporting System (NIBRS): Benefits and Issues](https://crsreports.congress.gov/product/pdf/R/R46668)
 
+- **FATF** [TARGETED UPDATE ON IMPLEMENTATION OF THE FATF STANDARDS ON VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS](https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/June2023-Targeted-Update-VA-VASP.pdf.coredownload.inline.pdf)
+
+- **FATF** [VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS](https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/Updated-Guidance-VA-VASP.pdf.coredownload.inline.pdf)
+
+- **FATF** [Report to the G20 Finance Ministers and Central Bank Governors on So-called Stablecoins](https://www.fatf-gafi.org/content/dam/fatf-gafi/reports/Virtual-Assets-FATF-Report-G20-So-Called-Stablecoins.pdf.coredownload.pdf)
+
+- **Basel Institute on Governance** [Combating virtual assetsbased money laundering and crypto-enabled crime](https://baselgovernance.org/sites/default/files/2022-01/2021%20Recommendations%20Crypto%20AML.pdf)
+
+- **INTERPOL** [Combatting Cyber-enabled Financial Crimes in the era of Virtual Asset and Darknet Service Providers](https://www.interpol.int/en/content/download/17305/file/IC_20200701%20-%20Financial%20Crimes%20in%20the%20Era%20of%20Dark%20Web%20-%20Assessment%20Report%20Final.pdf)
+
+
 ## Regulation
 
 ### Cryptocurrency Regulation
