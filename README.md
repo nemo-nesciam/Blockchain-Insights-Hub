@@ -42,7 +42,7 @@ Discover a world of blockchain and cybersecurity insights with the Blockchain In
 - [Cybersecurity](#cybersecurity-regulation)
 - [Privacy](#privacy-regulation)
 
-## [ez TLDR]
+## [ez TLDR](#ez-tldr-1)
 
 ![Overview of DeFi Protocol Security Measures and Services](https://github.com/nemo-nesciam/Blockchain-Insights-Hub/blob/main/assets/DeFi%20Protocol%20Security%20Landscape.png "DeFi Protocol Security Landscape")
 Image citation: BlockSec. (n.d.). DeFi Protocol Security Landscape. Introduction - BlockSec Documents. <https://docs.blocksec.com/about-blocksec/introduction>
