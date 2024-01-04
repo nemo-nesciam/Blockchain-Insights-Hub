@@ -42,6 +42,8 @@ Discover a world of blockchain and cybersecurity insights with the Blockchain In
 - [Cybersecurity](#cybersecurity-regulation)
 - [Privacy](#privacy-regulation)
 
+## [ez TLDR]
+
 ![Overview of DeFi Protocol Security Measures and Services](https://github.com/nemo-nesciam/Blockchain-Insights-Hub/blob/main/assets/DeFi%20Protocol%20Security%20Landscape.png "DeFi Protocol Security Landscape")
 Image citation: BlockSec. (n.d.). DeFi Protocol Security Landscape. Introduction - BlockSec Documents. <https://docs.blocksec.com/about-blocksec/introduction>
 
@@ -565,6 +567,12 @@ This section provides an overview of various global privacy regulations, highlig
 - [Utah Consumer Privacy Act - UCPA](https://le.utah.gov/~2022/bills/static/SB0227.html)
 
 - [Virginia Consumer Data Protection Act - VCDPA](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
+
+## ez TLDR
+
+- [New 2024 Crypto Tax Law for Transactions of $10000 or More](https://medium.com/coinmonks/ez-tldr-new-crypto-tax-law-for-transactions-of-10000-or-more-what-you-need-to-know-4c0dd2b35b33)
+- [Latest Draft of the UN Cybercrime Treaty](https://medium.com/@ervin.zubic/ez-tldr-latest-draft-of-the-un-cybercrime-treaty-what-you-need-to-know-f0851d1d1692)
+- [FinCEN’s Newly Proposed Crypto Rule](https://medium.com/coinmonks/ez-tldr-fincens-newly-proposed-crypto-rule-what-you-need-to-know-9d5fbc792614)
 
 
 [**Top**](#research)
