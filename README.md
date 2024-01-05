@@ -573,10 +573,12 @@ This section provides an overview of various global privacy regulations, highlig
 ## ez TLDR
 Explore a collection of short articles summarizing the latest developments in cryptocurrency regulations, including updates on new tax laws, international cybercrime treaties, and regulatory proposals by agencies like FinCEN. Stay informed about the evolving landscape of cryptocurrency regulations, from privacy concerns to compliance challenges, and their impact on financial institutions, individual users, and the broader digital currency space.
 
+
+- [UCC Article 12 Provides Legal Framework for Digital Assets and Cryptocurrency](https://medium.com/p/da0e8df40f1f)
 - [New 2024 Crypto Tax Law for Transactions of $10000 or More](https://medium.com/coinmonks/ez-tldr-new-crypto-tax-law-for-transactions-of-10000-or-more-what-you-need-to-know-4c0dd2b35b33)
 - [Latest Draft of the UN Cybercrime Treaty](https://medium.com/@ervin.zubic/ez-tldr-latest-draft-of-the-un-cybercrime-treaty-what-you-need-to-know-f0851d1d1692)
 - [FinCEN’s Newly Proposed Crypto Rule](https://medium.com/coinmonks/ez-tldr-fincens-newly-proposed-crypto-rule-what-you-need-to-know-9d5fbc792614)
-
+  
 
 [**Top**](#research)
 
