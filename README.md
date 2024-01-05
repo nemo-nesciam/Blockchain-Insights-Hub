@@ -375,6 +375,8 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 - [**OWASP Threat Dragon**](https://owasp.org/www-project-threat-dragon/): OWASP Threat Dragon allows users to create diagrams of their software architecture and visually map out potential security threats. It also includes a rule engine to suggest common threats and mitigations based on the elements present in the diagrams. This tool is useful for security analysts, software developers, and system architects to understand and address security risks early in the software development lifecycle.
 
+- [**Check Point Research**](https://research.checkpoint.com/): CPR offers a range of resources related to cybersecurity and web security trends. The website features the latest publications, a podcast channel, and focuses on key topics like Web 3.0 security, threat intelligence, zero-day protection, and more​​. CPR covers a wide range of topics including the rising threat of phishing attacks with crypto drainers, deep dives into malware components, and comparative studies on ransomware attacks​​. Trending topics include ChatGPT, the Russo-Ukrainian War, cloud security, artificial intelligence, ransomware, and their CPRadio podcast​​. Additionally, CPR is featured in the news for topics such as the rise in cyberattacks fueled by AI and other cybersecurity issues​​.
+
 ## Repositories
 
 ### Blockchain
