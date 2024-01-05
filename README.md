@@ -473,6 +473,8 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 - **Apple** [2022 The Rising Threat to Consumer Data in the Cloud](https://www.apple.com/newsroom/pdfs/The-Rising-Threat-to-Consumer-Data-in-the-Cloud.pdf)
 
+- **KelleyDrye** [Winning the Wild West: Cryptocurrency, WEB3, and the New UCC Article 12](https://s3.amazonaws.com/cdn.kelleydrye.com/content/uploads/attachments/Winning-the-Wild-West-Crypto_12-22-23.pdf)
+
 ### Government Reports
 
 - **Federal Bureau of Investigation (FBI)** [Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) <mark style="background-color: #FF7E24">**TLDR**</mark> This website aims to provide transparency, create easier access, and expand awareness of criminal, and noncriminal, law enforcement data sharing; improve accountability for law enforcement; and provide a foundation to help shape public policy with the result of a safer nation. Use the CDE to discover available data through visualizations, download data in .csv format, and other large data files.
