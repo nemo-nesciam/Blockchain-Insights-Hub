@@ -514,6 +514,7 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 - **International Monetary Fund (IMF)** [New Evidence on Spillovers Between Crypto Assets and Financial Markets](https://deliverypdf.ssrn.com/delivery.php?ID=125017092064004017102007019084118112009074054049036036007104001012125061089019106099029123121024118099014065049068011000119090003116069094017086066020072067071105123025123124079026082005081&EXT=pdf&INDEX=TRUE)
 
+- **Organisation for Economic Co-operation and Development (OECD)** [Institutionalisation of crypto-assets and DeFi–TradFi interconnectedness](https://www.oecd-ilibrary.org/docserver/5d9dddbe-en.pdf?expires=1704740374&id=id&accname=guest&checksum=8B3E6840CBEE46FB6A22EC5953B14DD3)
 
 ## Regulation
 
