@@ -454,6 +454,8 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 ### Private Reports
 
+- **TRM Labs** [Global Crypto Policy Review &Outlook 2023/24](https://uploads-ssl.webflow.com/6082dc5b67056233213587a4/6597f1953f85d02072d9a5e2_TRM%20Global%20Crypto%20Policy%20Review%20%26%20Outlook%202023-24.pdf)
+
 - **TRM Labs** [Tackling Crypto Crime](https://uploads-ssl.webflow.com/6082dc5b67056233213587a4/6583048f70ed88922723499d_TRM_LE-Survey-Report_2023_V4.pdf)
 
 - **TRM Labs** [Illicit Crypto Ecosystem Report](https://www.trmlabs.com/report)
