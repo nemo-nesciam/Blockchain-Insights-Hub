@@ -486,6 +486,9 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 - **KelleyDrye** [Winning the Wild West: Cryptocurrency, WEB3, and the New UCC Article 12](https://s3.amazonaws.com/cdn.kelleydrye.com/content/uploads/attachments/Winning-the-Wild-West-Crypto_12-22-23.pdf)
 
+- **PwC** [PwC Global Crypto Regulation Report 2023](https://www.pwc.com/gx/en/new-ventures/cryptocurrency-assets/pwc-global-crypto-regulation-report-2023.pdf)
+
+
 ### Government Reports
 
 - **Federal Bureau of Investigation (FBI)** [Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) <mark style="background-color: #FF7E24">**TLDR**</mark> This website aims to provide transparency, create easier access, and expand awareness of criminal, and noncriminal, law enforcement data sharing; improve accountability for law enforcement; and provide a foundation to help shape public policy with the result of a safer nation. Use the CDE to discover available data through visualizations, download data in .csv format, and other large data files.
