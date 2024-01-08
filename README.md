@@ -512,6 +512,8 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 - **INTERPOL** [Combatting Cyber-enabled Financial Crimes in the era of Virtual Asset and Darknet Service Providers](https://www.interpol.int/en/content/download/17305/file/IC_20200701%20-%20Financial%20Crimes%20in%20the%20Era%20of%20Dark%20Web%20-%20Assessment%20Report%20Final.pdf)
 
+- **International Monetary Fund (IMF)** [New Evidence on Spillovers Between Crypto Assets and Financial Markets](https://deliverypdf.ssrn.com/delivery.php?ID=125017092064004017102007019084118112009074054049036036007104001012125061089019106099029123121024118099014065049068011000119090003116069094017086066020072067071105123025123124079026082005081&EXT=pdf&INDEX=TRUE)
+
 
 ## Regulation
 
