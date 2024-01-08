@@ -456,6 +456,8 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 - **TRM Labs** [Tackling Crypto Crime](https://uploads-ssl.webflow.com/6082dc5b67056233213587a4/6583048f70ed88922723499d_TRM_LE-Survey-Report_2023_V4.pdf)
 
+- **TRM Labs** [Illicit Crypto Ecosystem Report](https://www.trmlabs.com/report)
+
 - **ELLIPTIC** [How to Defend Your Business Against Crypto Crime](https://www.elliptic.co/hubfs/Elliptic_Guide_How_to_Defend_Your_Business_Against_Crypto_Crime.pdf?utm_campaign=Typologies%202023&utm_medium=email&_hsmi=265863773&_hsenc=p2ANqtz--p_2DJz-Rfhr1jtDNMY29u-jGfF-waFRugC8TaFVwMWFzitZQYV04UHbPAVD-3JHR4uk7BT6dAK_mppe2g3udD83DaqgyCUk0qQFdbPyLvMC79A2k&utm_content=265863773&utm_source=hs_automation)
   
 - **ELLIPTIC**  [The state of cross-chain crime](https://www.elliptic.co/hubfs/Cross%20Chain%20Report%20exec.pdf)
