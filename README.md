@@ -521,6 +521,10 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 - **Organisation for Economic Co-operation and Development (OECD)** [Institutionalisation of crypto-assets and DeFi–TradFi interconnectedness](https://www.oecd-ilibrary.org/docserver/5d9dddbe-en.pdf?expires=1704740374&id=id&accname=guest&checksum=8B3E6840CBEE46FB6A22EC5953B14DD3)
 
+- **Finabel** [Blockchain in defence: a breakthrough?](https://finabel.org/wp-content/uploads/2020/09/FFT-Blockchain.pdf)
+
+- **Department of Defense (DoD)** [Summary 2023 Cyber Stategy of The Department of Defence](https://media.defense.gov/2023/Sep/12/2003299076/-1/-1/1/2023_DOD_Cyber_Strategy_Summary.PDF)
+
 ## Regulation
 
 ### Cryptocurrency Regulation
