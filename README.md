@@ -133,6 +133,8 @@ This paper addresses the complexities and inconsistencies in defining and unders
 
 - [SGXLock: Towards Efficiently Establishing Mutual Distrust Between Host Application and Enclave for SGX](https://assets.blocksec.com/pdf/1660878908772-4.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> This paper addresses security concerns in SGX (Software Guard Extensions) systems, which often assume enclaves to be trusted and overlook risks posed by untrusted enclaves. The authors propose a mechanism to confine an untrusted enclave's behavior, targeting the asymmetries between enclave and host that could be exploited for unauthorized memory access and manipulation. Their solution employs Intel MPK for memory isolation and x86 single-step debugging for exit event capturing, ensuring mutual distrust and integrity checks. A prototype demonstrated the system's effectiveness with less than 4% performance overhead, proving its viability for real-world applications​​.
 
+- [Architectural Design for Secure Smart Contract Development](https://arxiv.org/pdf/2401.01891.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> This research paper by Myles Lewis and Chris Crawford proposes a novel security model for smart contract development on blockchain networks, particularly Ethereum. It emphasizes a dual approach combining static and dynamic analysis to identify vulnerabilities, and introduces a security rating certificate to certify smart contracts that meet high security standards. This comprehensive model aims to enhance trust and security in blockchain applications, potentially setting new industry benchmarks.
+
 ## Resources
 
 ### General
