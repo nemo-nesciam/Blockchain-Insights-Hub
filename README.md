@@ -382,6 +382,9 @@ For ethical hackers and pen testers seeking to familiarize themselves with vario
 
 - [**Check Point Research**](https://research.checkpoint.com/): CPR offers a range of resources related to cybersecurity and web security trends. The website features the latest publications, a podcast channel, and focuses on key topics like Web 3.0 security, threat intelligence, zero-day protection, and more​​. CPR covers a wide range of topics including the rising threat of phishing attacks with crypto drainers, deep dives into malware components, and comparative studies on ransomware attacks​​. Trending topics include ChatGPT, the Russo-Ukrainian War, cloud security, artificial intelligence, ransomware, and their CPRadio podcast​​. Additionally, CPR is featured in the news for topics such as the rise in cyberattacks fueled by AI and other cybersecurity issues​​.
 
+[VirusTotal](https://www.virustotal.com/gui/home/upload) :green_circle:
+<mark style="background-color: #FF7E24">**TLDR**</mark> VirusTotal is a website that allows users to analyze suspicious files and URLs for malware detection. It provides a platform for automatic sharing of these threats with the security community. The website requires JavaScript for full functionality and offers a minimal interface for older browsers.
+
 ## Repositories
 
 ### Blockchain
@@ -524,6 +527,10 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 - **Finabel** [Blockchain in defence: a breakthrough?](https://finabel.org/wp-content/uploads/2020/09/FFT-Blockchain.pdf)
 
 - **Department of Defense (DoD)** [Summary 2023 Cyber Stategy of The Department of Defence](https://media.defense.gov/2023/Sep/12/2003299076/-1/-1/1/2023_DOD_Cyber_Strategy_Summary.PDF)
+
+- **Value Technology Foundation** [Potential Uses of Blockchain Technology in DoD](https://www.crowell.com/a/web/t1ztVpgxHZNSSy3fuk2QCm/4Ttkc4/potential-uses-of-blockchain-technology-in-dod.pdf)
+
+- **CSIAC** [Blockchain Applications for Federal Government](https://csiac.org/wp-content/uploads/2023/12/SOAR_CSIAC_Blockchain-Applications-for-Federal-Government_12112023.pdf)
 
 ## Regulation
 
