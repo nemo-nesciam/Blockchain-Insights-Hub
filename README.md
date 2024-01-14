@@ -328,6 +328,9 @@ Moralis is a platform that provides tools and services to simplify the developme
 [Forefy Smart Contract Auditors Space](https://smart.forefy.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> Forefy Smart Contract Auditors Space is a gamified platform designed to train and promote expert Smart Contract Security Auditors. It aims to address the limitations of traditional leaderboards in evaluating auditor skills by considering factors overlooked in these rankings, such as private audits, unique findings, customer satisfaction, and time efficiency. The platform features a structured level system where participants engage in various tasks, each with a storyline and specific goals. Their unique scoring system combines automated calculations with human oversight to evaluate solutions based on criteria like professional writing, originality, efficiency, and rarity of findings​​​​.
 
+[Covalent](https://www.covalenthq.com/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> Covalent provides a unified API that simplifies access to fast, scalable historical blockchain data across over 200 chains. It addresses challenges in Web3 development by offering structured schemas, ease of switching chains, and high-speed, scalable APIs for better user experiences. Covalent's solutions are designed for both individual developers and enterprises, ensuring long-term data availability, enterprise support, and full scalability for applications of various sizes. For more detailed information, you can visit their website here.
+
 
 ### OSINT
 
