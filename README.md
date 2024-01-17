@@ -116,7 +116,12 @@ This section contains a collection of academic research papers focused on blockc
 - [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/pdf/2308.03314.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> The research paper introduces GPTScan, a novel tool that integrates Generative Pre-training Transformer (GPT) with static analysis for detecting logic vulnerabilities in smart contracts. This approach addresses the limitation of current tools that fail to audit about 80% of Web3 security bugs. GPTScan uses GPT as a versatile code understanding tool, breaking down vulnerabilities into scenarios and properties for effective detection. It has shown high precision in identifying vulnerabilities, including those missed by human auditors, and is both fast and cost-effective​​.  
 
 - [Vulnerability Scanners for Ethereum Smart Contracts: A Large-Scale Study](https://arxiv.org/pdf/2312.16533.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> This study investigates the effectiveness of existing vulnerability scanners in detecting security issues in Ethereum smart contracts. It highlights that despite the development of various tools for security analysis, significant discrepancies exist in their findings, leading to poor overall performance in vulnerability detection. The study employs extensive datasets, including over 77,000 source codes and 4 million bytecodes, and tests 17 different scanners. It finds that these tools often fail to agree on the presence of vulnerabilities, raising questions about their reliability and the current state of smart contract security analysis.
+
+- [Chatgpt for cybersecurity: practical applications, challenges, and future directions](https://www.researchgate.net/publication/373044798_ChatGPT_For_Cybersecurity_Practical_Applications_Challenges_and_Future_Directions/link/64e7d6f80453074fbdabd1c6/download) <mark style="background-color: #FF7E24">**TLDR**</mark> The research paper "ChatGPT For Cybersecurity" examines the dual role of ChatGPT in cybersecurity, highlighting its potential for both enhancing security measures and posing new threats. It delves into ChatGPT's capabilities in creating complex cybersecurity scenarios, including both defensive strategies like honeypots and offensive tactics like malware development, while emphasizing the ethical and legal challenges posed by this AI technology.
  
+- [From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy](https://arxiv.org/pdf/2307.00691.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> This research paper delves into the evolving landscape of Generative AI (GenAI) models in 2022, particularly focusing on their impact on cybersecurity and privacy. It explores the growing complexity and capabilities of GenAI models like ChatGPT and Google Bard, highlighting the social, ethical, and privacy implications they pose. The paper identifies vulnerabilities in ChatGPT that could be exploited by malicious actors, showcasing example attacks such as Jailbreaks, reverse psychology, and prompt injection. Additionally, it investigates how cyber offenders might use GenAI tools for various cyber attacks, including social engineering, phishing, automated hacking, and malware creation. 
+
+- []() <mark style="background-color: #FF7E24">**TLDR**</mark> 
 
 ### Cybercrime
 
@@ -458,6 +463,9 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 [EXPLOIT DATABASE](https://www.exploit-db.com/)
 <mark style="background-color: #FF7E24">**TLDR**</mark> Exploit Database is a non-profit project that is provided as a public service by Offensive Security. The Exploit Database is an archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers. Its purpose is to provide information about vulnerabilities and their exploits to help security professionals test the security of their systems and to promote the responsible disclosure of security vulnerabilities. The database includes entries for various types of exploits, including remote exploits, web application exploits, and local & privilege escalation exploits, among others.
 
+[Schneier on Security](https://www.schneier.com/)
+<mark style="background-color: #FF7E24">**TLDR**</mark> The website "Schneier on Security" is a personal blog by Bruce Schneier, a well-known security expert. The site features a variety of content including blog posts, essays, and links to his books, covering a wide range of topics related to security, technology, and privacy. The posts often delve into current security issues, technological developments, and Schneier's perspectives on various topics, reflecting his expertise in cybersecurity and technology policy. The website also includes information about his speaking engagements and links to his newsletter.
+
 ## Reports
 
 ### Private Reports
@@ -536,6 +544,8 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 - **Value Technology Foundation** [Potential Uses of Blockchain Technology in DoD](https://www.crowell.com/a/web/t1ztVpgxHZNSSy3fuk2QCm/4Ttkc4/potential-uses-of-blockchain-technology-in-dod.pdf)
 
 - **CSIAC** [Blockchain Applications for Federal Government](https://csiac.org/wp-content/uploads/2023/12/SOAR_CSIAC_Blockchain-Applications-for-Federal-Government_12112023.pdf)
+
+- **UNODC** [Casinos, Money Laundering, Underground Banking, and Transnational Organized Crime in East and Southeast Asia: A Hidden and Accelerating Threat](https://www.unodc.org/roseap/uploads/documents/Publications/2024/Casino_Underground_Banking_Report_2024.pdf)
 
 ## Regulation
 
