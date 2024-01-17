@@ -121,7 +121,7 @@ This section contains a collection of academic research papers focused on blockc
  
 - [From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy](https://arxiv.org/pdf/2307.00691.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> This research paper delves into the evolving landscape of Generative AI (GenAI) models in 2022, particularly focusing on their impact on cybersecurity and privacy. It explores the growing complexity and capabilities of GenAI models like ChatGPT and Google Bard, highlighting the social, ethical, and privacy implications they pose. The paper identifies vulnerabilities in ChatGPT that could be exploited by malicious actors, showcasing example attacks such as Jailbreaks, reverse psychology, and prompt injection. Additionally, it investigates how cyber offenders might use GenAI tools for various cyber attacks, including social engineering, phishing, automated hacking, and malware creation. 
 
-- []() <mark style="background-color: #FF7E24">**TLDR**</mark> 
+- [The Devil Behind the Mirror: Tracking the Campaigns of Cryptocurrency Abuses on the Dark Web](https://arxiv.org/pdf/2401.04662.pdf) <mark style="background-color: #FF7E24">**TLDR**</mark> This research paper presents a comprehensive investigation into the use of the dark web for cryptocurrency-related illicit activities. The study involves the collection of data from thousands of cryptocurrency-related onion sites and the detection of illicit blockchain transactions, shedding light on the characteristics and dynamics of cryptocurrency abuses in this hidden online ecosystem. The findings reveal the existence of numerous illicit sites, blockchain addresses, and campaigns, highlighting the interconnected nature of illicit activities on the dark web and the potential for early detection and prevention of such activities.
 
 ### Cybercrime
 
@@ -546,6 +546,8 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 - **CSIAC** [Blockchain Applications for Federal Government](https://csiac.org/wp-content/uploads/2023/12/SOAR_CSIAC_Blockchain-Applications-for-Federal-Government_12112023.pdf)
 
 - **UNODC** [Casinos, Money Laundering, Underground Banking, and Transnational Organized Crime in East and Southeast Asia: A Hidden and Accelerating Threat](https://www.unodc.org/roseap/uploads/documents/Publications/2024/Casino_Underground_Banking_Report_2024.pdf)
+
+- **GAO** [Economic Sanctions: Agency Efforts Help Mitigate Some of the Risks Posed by Digital Assets](https://www.gao.gov/assets/d24106178.pdf)
 
 ## Regulation
 
