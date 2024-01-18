@@ -504,7 +504,7 @@ The GitHub repository 0xKoda/DIRP focuses on DeFi (Decentralized Finance) Incide
 
 - **PwC** [PwC Global Crypto Regulation Report 2023](https://www.pwc.com/gx/en/new-ventures/cryptocurrency-assets/pwc-global-crypto-regulation-report-2023.pdf)
 
-- **SANCTION SCANNER** [2023–2024 Financial Crime and Compliance Report](https://sanctionscanner.com/Content/Report/2023-2024-Financial-Crime-and-Compliance-Report.pdf)
+- **SANCTION SCANNER** [2023–2024 Financial Crime and Compliance Report](https://sanctionscanner.com/Content/Report/2023-2024-Financial-Crime-and-Compliance-Report.pdf) The "2023-2024 Financial Crime and Compliance Report" by Sanction Scanner is a comprehensive analysis of current and emerging trends in anti-money laundering and financial crime prevention.
 
 
 ### Government Reports
